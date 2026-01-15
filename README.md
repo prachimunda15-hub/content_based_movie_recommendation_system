@@ -1,3 +1,6 @@
+CONTENT BASED RECOMMENDATION SYSTEM 
+
+
 Table Of Content  
 * Overview
 * Features
@@ -82,5 +85,9 @@ def recommend (movie_name):
    * The model is integrated into a Streamlit web application
    * Users can select a movie from a dropdown and instantly receive recommendations
 
-* License
-* 
+* License- This project is licensed under the MIT License - see the LICENSE file for details.
+
+* Acknowledgements- Kaggle for providing the movies  dataset. The creators and contributors to the libraries used in this project. ##Contact
+
+For any queries regarding the project, please reach out through the Issues section on GitHub.
+
