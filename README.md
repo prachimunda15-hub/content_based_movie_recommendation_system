@@ -87,7 +87,5 @@ def recommend (movie_name):
 
 * License- This project is licensed under the MIT License - see the LICENSE file for details.
 
-* Acknowledgements- Kaggle for providing the movies  dataset. The creators and contributors to the libraries used in this project. ##Contact
-
-For any queries regarding the project, please reach out through the Issues section on GitHub.
+* Acknowledgements- Kaggle for providing the movies  dataset. The creators and contributors to the libraries used in this project. ##Contact For any queries regarding the project, please reach out through the Issues section on GitHub.
 
