@@ -1,0 +1,28 @@
+ Python cache
+_pycache_/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+
+# Logs
+*.log
+
+# Model files
+*.pkl
+*.joblib
+
+# Large data files
+data/*.zip
+data/*.csv
